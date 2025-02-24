@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src="https://www.loom.com/embed/f8607c0607eb46c684f8d7b267a50463?sid=e0aeb914-e9d1-4787-ad32-6c079e8b4611"></iframe></div>]' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://www.loom.com/embed/f8607c0607eb46c684f8d7b267a50463?sid=e0aeb914-e9d1-4787-ad32-6c079e8b4611" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom 
